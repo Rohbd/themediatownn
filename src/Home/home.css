@@ -1,0 +1,26 @@
+body{
+    background-color: #f4f4f4;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+img{
+    height: 13%;
+    width: 13%;
+}
+.navBar{
+    display: flex;
+    float: left;
+    margin-right: 50px;
+}
+ul {
+    list-style:  none;
+}
+h3{
+    font-family: "Poppins" bold;
+    font-size: 1.61rem;
+    color: #007BC1
+}

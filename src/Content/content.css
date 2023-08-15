@@ -1,0 +1,114 @@
+.head{
+    display: flex;
+}
+
+.btn{
+    padding: 20px 40px;
+    border-radius: 49px;
+    background-color: #017BC1;
+    color: white;
+    border: #f4f4f4;
+    font-size: large;
+}
+h1{
+    color: #017BC1;
+    font-family: var(--e-global-typography-primary-font-family ), poppins;
+    font-size: 3.31rem;
+    font-weight: 760;
+}
+
+p{
+    text-align: center;
+    font-size: 3.31rem;
+    font-weight: 760;
+    color: white;
+}
+.sticker{
+    height: 400px;
+    width: 400px;
+    margin-top: -5%;
+    position: absolute;
+    top:3;
+    bottom: 0;
+    right: 0;
+}
+.sticker2{
+    height: 550px;
+    width: 500px;
+    margin-top: -24%;
+    position: absolute;
+    object-fit: contain;
+   
+}
+.stickerBackground{
+    height: 300px;
+    width: 300px;
+    background-color: #017BC1;
+    border-radius: 50%;
+}
+.stickerBackground1{
+    height: 300px;
+    width: 300px;
+    background-color: #017BC1;
+    border-radius: 50%;
+}
+
+.imageContainer{
+    position: relative;
+}
+
+.heading1{
+    margin-right: auto;
+}
+.heading2{
+    margin-right: auto;
+    font-size: 1.8rem;
+    color: #017BC1;
+    margin-top: 0%  ;
+}
+.cont1{
+    display: flex;
+    flex-direction: column;
+}
+.service{
+    text-align: center;
+    font-size: 1.31rem;
+        color: white;
+        margin-top: -2%;
+}
+.cont2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 8%;
+}
+.cont3{
+    display: flex;
+    flex-direction: row;
+    margin-left: -6%;
+    margin-top: -2%;
+}
+h4{
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+.cont5{
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin-top: auto;
+    margin-left: 1%;
+}
+.icon{
+    color: #017BC1;
+}
+.piccont{
+    height: 60%;
+    width: 30%;
+    padding: 10px;
+    margin-left: 1.5%;
+    margin-top: 2%;
+}
+.piccontainer
+{
+    display: flex;
+    background-color: #017BC1;
+}
